@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 I am a final year B.Tech CS student. I am a Full Stack Blockchain Developer. I have a good hold on Data Structures and Algorithms.               
 
