@@ -5,12 +5,12 @@ I am a final year B.Tech CS student. I am a Full Stack Blockchain Developer. I h
 I am an enthusiastic, self motivated and diligent person. 
 
 I am currently working on -
-1) Real Estate Management using Blockchain
-2) Data Structures and Algorithms
+1) Real Estate Management using Blockchain (ShelterHub). 
+2) Data Structures and Algorithms. 
 
 Achievements - 
 
-1) Led Ethereum Bootcamp technical track at Women Who Code Blockchain. (ShelterHub)
+1) Led Ethereum Bootcamp technical track at Women Who Code Blockchain. 
 2) Featured in Solidity Weekly
 
 
