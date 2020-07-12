@@ -10,7 +10,7 @@ I am currently working on -
 
 Achievements - 
 
-1) Led Ethereum Bootcamp technical track at Women Who Code Blockchain.
+1) Led Ethereum Bootcamp technical track at Women Who Code Blockchain. (ShelterHub)
 2) Featured in Solidity Weekly
 
 
