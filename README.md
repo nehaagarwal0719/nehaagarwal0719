@@ -2,8 +2,6 @@
 
 I am a final year B.Tech CS student. I am a Full Stack Blockchain Developer. I have a good hold on Data Structures and Algorithms.               
 
-I am an enthusiastic, self motivated and diligent person. 
-
 I am currently working on -
 1) Real Estate Management using Blockchain (ShelterHub). 
 2) Data Structures and Algorithms. 
@@ -12,6 +10,7 @@ Achievements -
 
 1) Led Ethereum Bootcamp technical track at Women Who Code Blockchain. 
 2) Featured in Solidity Weekly
+3) GHCI'20 Scholar
 
 
 You can contact me throught - nehaagarwal0464@gmail.com , https://www.linkedin.com/in/neha-agarwal-0719/
